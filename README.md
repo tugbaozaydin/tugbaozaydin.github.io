@@ -1,1 +1,1 @@
-![Tuğba Özaydın](https://tugbaozaydin.github.io/)
+[Tuğba Özaydın](https://tugbaozaydin.github.io/)
