@@ -14,7 +14,7 @@ menu:
 # - {name: About, link: '/about'}
 #  - {name: Blog, link: '/blog'}
 # - {name: Portfolio, link: '/portfolio'}
-# - {name: Contact, link: '/contact'}
+- {name: Contact, link: '/contact'}
 
 
 #-------------------------------
@@ -104,7 +104,8 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Mobile Application Developer, icon: 'icon-1.png', date: 'Jan 2019 - continue', organization: 'DESECURE'}
+- {name: Mobile Application Developer, icon: 'desecure.png', date: 'Jan 2019 - Aug 2021', organization: 'DESECURE'}
+- {name: Android Developer, icon: 'huawei.png', date: 'Aug 2021 - Contınue', organization: 'Huawei'}
 
 
 #-------------------------------
